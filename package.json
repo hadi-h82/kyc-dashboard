@@ -10,7 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@pinia-plugin-persistedstate/nuxt": "^1.2.1",
+    "@pinia/nuxt": "^0.5.5",
+    "@tailwindcss/vite": "^4.1.14",
     "nuxt": "^4.1.2",
+    "tailwindcss": "^4.1.14",
     "vue": "^3.5.22",
     "vue-router": "^4.5.1"
   }
